@@ -112,24 +112,40 @@ Usando buenas prácticas de programación y diseño para crear una aplicación e
 
 
 
+
+
 PROYECTO003(django)
 
 
 
 Especificaciones: 
 
-quiero que el sitio esté optimizado y funcione en todos los dispositivos, utilizando un diseño responsive con HTML y CSS para adaptar la presentación del sitio a distintos tamaños de pantalla.
+quiero que el sitio esté optimizado y funcione en todos los dispositivos, utilizando un diseño
+responsive con HTML y CSS para adaptar la presentación del sitio a distintos tamaños de pantalla.
 
 
 
-En un principio, se mostrarán 22 cartas con la imagen de la contratapa, distribuidas en la pantalla. Para lograr esto, se utilizará Django y sus capacidades de renderización de plantillas HTML y CSS, junto con el manejo de imágenes. Se creará una vista en Django que renderice una plantilla HTML que contenga un grid o masonry layout para mostrar todas las imágenes de las cartas. Usando CSS, se dará un estilo atractivo y coherente a la presentación de las imágenes.
+En un principio, se mostrarán 22 cartas con la imagen de la contratapa, distribuidas en la pantalla. 
+Para lograr esto, se utilizará Django y sus capacidades de renderización de plantillas HTML y CSS, 
+junto con el manejo de imágenes. Se creará una vista en Django que renderice una plantilla HTML 
+que contenga un grid o masonry layout para mostrar todas las imágenes de las cartas. Usando CSS, 
+se dará un estilo atractivo y coherente a la presentación de las imágenes.
 
 
 
-Además, se quiere que el usuario pueda hacer click en tres cartas y estas se den vuelta para mostrar tres imágenes distintas de los arcanos mayores. Para lograr esto, se utilizará JavaScript en conjunto con Django para detectar el click del usuario en las cartas y cambiar el contenido de las imágenes. Se creará una función en JavaScript que maneje el evento de click en las cartas, y se integrará con la vista de Django correspondiente para mostrar las nuevas imágenes en la página.
+Además, se quiere que el usuario pueda hacer click en tres cartas y estas se den vuelta para 
+mostrar tres imágenes distintas de los arcanos mayores. Para lograr esto, se utilizará JavaScript en 
+conjunto con Django para detectar el click del usuario en las cartas y cambiar el contenido de las 
+imágenes. Se creará una función en JavaScript que maneje el evento de click en las cartas, y se integrará 
+con la vista de Django correspondiente para mostrar las nuevas imágenes en la página.
 
 
 
-
-
-También se quiere agregar un botón verde en la parte inferior que diga "mostrar resultado". Para lograr esto, se utilizará HTML y CSS para crear un botón con el estilo deseado, y se integrará con una vista en Django que renderice la página correspondiente. Cuando se haga click en el botón, se mostrará una alerta en pantalla que devolverá la suma de los contenidos del archivo CSV de la columna "flordebachparatratamiento", teniendo en cuenta las tres imágenes que el usuario ha seleccionado en la tirada. Se utilizará Pandas, una librería de manipulación de datos en Python, para leer el archivo CSV y extraer los valores de la columna "flordebachparatratamiento" correspondientes a las tres imágenes seleccionadas por el usuario. Luego, se sumarán estos valores y se mostrará el resultado en una alerta utilizando JavaScript.
+También se quiere agregar un botón verde en la parte inferior que diga "mostrar resultado". 
+Para lograr esto, se utilizará HTML y CSS para crear un botón con el estilo deseado, y se integrará con 
+una vista en Django que renderice la página correspondiente. Cuando se haga click en el botón, se mostrará 
+una alerta en pantalla que devolverá la suma de los contenidos del archivo CSV de la columna
+"flordebachparatratamiento", teniendo en cuenta las tres imágenes que el usuario ha seleccionado en la tirada. 
+Se utilizará Pandas, una librería de manipulación de datos en Python, para leer el archivo CSV y extraer los 
+valores de la columna "flordebachparatratamiento" correspondientes a las tres imágenes seleccionadas por
+el usuario. Luego, se sumarán estos valores y se mostrará el resultado en una alerta utilizando JavaScript.

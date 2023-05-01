@@ -37,3 +37,76 @@ mostrar el resultado en una alerta utilizando JavaScript.
 
 
 Espero se entienda
+
+
+
+
+
+
+
+
+"PROYECTO
+
+Quiero crear una aplicación web de tarot utilizando Flask de Python. La aplicación debe tener
+las siguientes funcionalidades:
+
+
+Mostrar 22 cartas de los arcanos mayores con la imagen de la contratapa en un masonry layout. 
+Utiliza HTML y CSS para crear un diseño responsive que se adapte a diferentes tamaños de pantalla.
+
+
+Permitir al usuario hacer clic en tres cartas para darles vuelta y mostrar tres imágenes de los 
+arcanos mayores. Utiliza JavaScript para detectar el clic del usuario y cambiar el contenido de 
+las imágenes.
+
+
+Incluir un botón verde en la parte inferior de la pantalla que diga "Mostrar resultado". Utiliza 
+HTML y CSS para crear un botón atractivo y coherente con el diseño de la aplicación.
+
+
+Al hacer clic en el botón "Mostrar resultado", la aplicación debe mostrar un mensaje en pantalla 
+que muestre la suma de los contenidos de la columna "flordebachparatratamiento" del archivo CSV 
+correspondientes a las tres cartas seleccionadas por el usuario. Utiliza Python y la librería Pandas 
+para leer el archivo CSV y extraer los valores correspondientes a las imágenes seleccionadas.
+
+
+
+Para lograr esto, es necesario seguir los siguientes pasos:
+
+
+Instalar Flask y las librerías necesarias para manipular archivos CSV y Pandas.
+
+
+Crear una ruta en Flask para cargar las cartas de los arcanos mayores en el masonry layout.
+
+
+Utilizar JavaScript para detectar el clic del usuario en las cartas y cambiar el contenido de las imágenes.
+
+
+
+Crear una ruta en Flask para manejar el clic del botón "Mostrar resultado" y calcular la suma de los
+contenidos del archivo CSV correspondientes a las tres imágenes seleccionadas.
+
+
+
+Crear una plantilla de HTML que incluya el masonry layout de las cartas, el contenido de las imágenes
+y el botón "Mostrar resultado".
+
+
+Crear un archivo CSV con la información de las cartas y sus correspondientes contenidos en la 
+columna "flordebachparatratamiento".
+
+
+Crear una función en Python que lea el archivo CSV y extraiga los contenidos correspondientes a las 
+tres imágenes seleccionadas.
+
+
+Crear una función en Python que calcule la suma de los contenidos extraídos del archivo CSV.
+
+
+Integrar todas las funcionalidades en la aplicación Flask.
+
+
+Usando buenas prácticas de programación y diseño para crear una aplicación eficiente y legible.
+
+

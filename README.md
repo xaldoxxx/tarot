@@ -1,8 +1,9 @@
-# tarot
-tarot q relaciona flores de bach con el resultado de las tiradas
+<h1>PROYECTO TAROT-FLORES DE BACH</h1>
+<h2>Tarot que utiliza las cartas de los arcanos mayores y su relación con las 
+Flores de Bach para ofrecer resultados precisos y personalizados en cada tirada</h2>
 
 
-PROYECTO 
+PROYECTO000
 
 
 
@@ -45,7 +46,7 @@ Espero se entienda
 
 
 
-"PROYECTO
+PROYECTO001
 
 Quiero crear una aplicación web de tarot utilizando Flask de Python. La aplicación debe tener
 las siguientes funcionalidades:

@@ -6,7 +6,7 @@ Flores de Bach para ofrecer resultados precisos y personalizados en cada tirada<
 www.xaldoxxx.com.ar/app033
 
 
-/h2>
+</h2>
 
 
 PROYECTO000(htmlcssjs)

@@ -1,6 +1,12 @@
 <h1>PROYECTO TAROT-FLORES DE BACH</h1>
 <h2>Tarot que utiliza las cartas de los arcanos mayores y su relación con las 
-Flores de Bach para ofrecer resultados precisos y personalizados en cada tirada</h2>
+Flores de Bach para ofrecer resultados precisos y personalizados en cada tirada<
+
+
+www.xaldoxxx.com.ar/app033
+
+
+/h2>
 
 
 PROYECTO000(htmlcssjs)

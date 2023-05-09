@@ -1,0 +1,10 @@
+{
+  "verbo_presente_indicativo": ["bailo", "canto", "salto", "grito", "muevo", "rimo", "fluyo", "brillo", "llego", "cuento"],
+  "verbo_infinitivo": ["bailar", "cantar", "saltar", "gritar", "mover", "rimar", "fluir", "brillar", "llegar", "contar"],
+  "articulo_determinado_masculino_plural": ["los", "unos", "estos", "esos", "todos", "muchos", "pocos", "varios", "algunos", "ningunos"],
+  "sustantivo_masculino_plural": ["amigos", "sonidos", "ritmos", "puntos", "aires", "pasos", "sentimientos", "momentos", "latidos", "corazones"],
+  "adverbio_de_cantidad": ["mucho", "poco", "bastante", "muy", "algo", "casi", "demasiado", "suficiente", "abundante", "escaso"],
+  "adjetivo_masculino_plural": ["alegres", "movidos", "sonoros", "románticos", "potentes", "intensos", "melódicos", "calientes", "vibrantes", "salvajes"],
+  "pronombre_demostrativo_femenino_singular": ["esta", "aquella", "esa", "la", "tal", "mi", "tu", "su", "nuestra", "vuestra"],
+  "sustantivo_femenino_singular": ["canción", "voz", "energía", "pasión", "vida", "mirada", "locura", "historia", "magia", "emoción"]
+}
